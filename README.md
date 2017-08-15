@@ -7,4 +7,4 @@ Run these commands to use node Liri:
 - node liri my-tweets <twitter username here>
 - node liri spotify-this-song <song name here>
 - node liri movie-this <movie name here>
-- node liri.js do-what-it-says (this will read back the random.txt file)
+- node liri do-what-it-says (this will read back the random.txt file)
