@@ -7,12 +7,10 @@ exports.twitterKeys = {
   access_token_secret: 'ev23SS00HsxlLShMDyyAQ0Pco8lKEqVLB0VuH9b7ciko9',
 }
 
-// Spotify:
-// Client ID
-// 0b8ce1fbada94f65a876eba9207451c7
-// Client Secret
-// 528c942b9f754a1db6fbb1a6d8c4421d
+spotifyKeys = {
+id: '0b8ce1fbada94f65a876eba9207451c7',
+secret: '528c942b9f754a1db6fbb1a6d8c4421d',
+}
 
-
-// imdb:
+// imdb key:
 // 40e9cece
