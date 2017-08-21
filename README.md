@@ -8,3 +8,5 @@ Run these commands to use node Liri:
 - node liri spotify-this-song <'song name here'>
 - node liri movie-this <'movie name here'>
 - node liri do-what-it-says (this will read back the random.txt file)
+
+view files here: https://github.com/njulius89/liri-node-app 
