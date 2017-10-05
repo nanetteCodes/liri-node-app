@@ -1,8 +1,8 @@
 # liri-node-app
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface.
+### LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface.
 
-###LIRI is a command line node app that takes in parameters and gives you back data.
-Run these commands to use:
+_LIRI is a command line node app that takes in parameters and gives you back data.
+Run these commands to use:_
 
 **- node liri my-tweets <'twitter username here'>**
 ![Screenshot](https://user-images.githubusercontent.com/28736699/31205167-bad7b6b4-a924-11e7-92d3-b9c7301abc95.png)
